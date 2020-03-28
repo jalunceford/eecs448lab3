@@ -1,0 +1,38 @@
+body
+{
+    background-color: #4CFAFF;
+    background-image: url(https://media.tenor.com/images/f0026d190cd0e8b320bbc2825fba3ddd/tenor.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right center;
+}
+p
+{
+    background-color: #4CFAFF;
+    color: white;
+    font-family: arial;
+    font-size: 22pt;
+}
+a
+{
+    background-color: #4CFAFF;
+    color: blue;
+}
+
+a:hover
+{
+    background-color: blue;
+    color: white;
+}
+
+p.bio
+{
+    color: yellow;
+    background-color: white;
+}
+h1
+{
+    color: white;
+    font-size: 48pt;
+}
